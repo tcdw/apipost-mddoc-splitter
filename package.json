@@ -1,0 +1,23 @@
+{
+  "name": "apipost-mddoc-splitter",
+  "version": "1.0.0",
+  "description": "切割从 APIPost 导出的 Markdown 文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcdw/apipost-mddoc-splitter.git"
+  },
+  "author": "tcdw <tcdw2011@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcdw/apipost-mddoc-splitter/issues"
+  },
+  "homepage": "https://github.com/tcdw/apipost-mddoc-splitter#readme",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "minimist": "^1.2.5"
+  }
+}
